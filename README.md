@@ -38,8 +38,8 @@ Travel Enthusiasts & Bloggers
 # Conclusion<img width="410" height="123" alt="image" src="https://github.com/user-attachments/assets/93735f5e-fd66-48ea-86fe-4b1012856a9b" />
 Planning a trip no longer has to be stressful or time-consuming.With just a simple chat, our Travel Planner Agent helps users discover where to go, what to do, and how to get there — all based on their unique preferences.It feels like talking to a travel-savvy friend who just gets you.And the best part? We built it with zero code, using IBM Watsonx and Granite — proving that smart AI doesn’t have to be complicated.It’s travel planning made easy, personal, and fun.
 <img width="3892" height="431" alt="image" src="https://github.com/user-attachments/assets/33983dcd-9b22-4e16-a09a-a24a6f80188d" />
-# GitHub Link<img width="402" height="123" alt="image" src="https://github.com/user-attachments/assets/f910bac4-fb7c-4a17-a292-e6f0b59308b1" />
-
+# <img width="402" height="123" alt="image" src="https://github.com/user-attachments/assets/f910bac4-fb7c-4a17-a292-e6f0b59308b1" />
+https://github.com/khousalya
 # Future scope
 <img width="515" height="146" alt="image" src="https://github.com/user-attachments/assets/b2504f51-04cd-4e7b-9dcf-c1a4922e7560" />
 Live Booking IntegrationUsers could book flights, hotels, and activities directly through the agent.Voice-Activated Research Assistant
