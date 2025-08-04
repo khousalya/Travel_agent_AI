@@ -1,21 +1,21 @@
 # Travel_agent_AI
 Plan your next trip with ease! This AI Travel Planner, built using IBM Watsonx Agent Lab and Granite model, chats with users to suggest personalized destinations, stays, and itineraries. It tailors every plan based on your preferences, budget, and travel goals—no stress, just smart planning.
-# Problem Statement
+# 
 <img width="1037" height="175" alt="image" src="https://github.com/user-attachments/assets/bda57b5e-7dd0-4141-bc9b-92fe102a970e" />
 Planning a trip should be exciting—but for many people, it quickly becomes overwhelming. From choosing the right destination to juggling flights, hotel options, daily itineraries, and unpredictable weather, the entire process can feel more like a chore than a joy.
 People often spend hours searching through websites, comparing prices, reading reviews, and trying to build the perfect plan that fits their budget and preferences. Even then, last-minute changes or missing information can throw everything off.
-# Technology  used<img width="962" height="175" alt="image" src="https://github.com/user-attachments/assets/deeddd79-29c4-4a09-8f29-b2b474b5ccd6" />
+# <img width="962" height="175" alt="image" src="https://github.com/user-attachments/assets/deeddd79-29c4-4a09-8f29-b2b474b5ccd6" />
 IBM cloud lite services
 Natural Language Processing (NLP)
 IBM Granite model
 <img width="888" height="330" alt="image" src="https://github.com/user-attachments/assets/426f17b8-141e-419a-8fca-53160ce30b7f" />
-# IBM cloud services used<img width="798" height="123" alt="image" src="https://github.com/user-attachments/assets/22d4cd34-2625-48bd-b484-9bc8b6d00fda" />
+#<img width="798" height="123" alt="image" src="https://github.com/user-attachments/assets/22d4cd34-2625-48bd-b484-9bc8b6d00fda" />
 IBM Cloud Watsonx AI Studio
 IBM Cloud Watsonx AI runtime
 IBM Cloud Agent Lab
 IBM Granite foundation model
 <img width="538" height="277" alt="image" src="https://github.com/user-attachments/assets/43dd2f04-6c7e-4d13-a757-d2585c110ee6" />
-# Wow factors<img width="590" height="140" alt="image" src="https://github.com/user-attachments/assets/0aa45b16-87bf-4108-a6ea-490569047ca3" />
+# <img width="590" height="140" alt="image" src="https://github.com/user-attachments/assets/0aa45b16-87bf-4108-a6ea-490569047ca3" />
 Natural, Chat-Based PlanningThe agent feels like talking to a real travel expert — no forms, just conversation.
 
 Real-Time Travel IntelligenceUses live Google Search to fetch updated info on destinations, weather, and visa rules.
