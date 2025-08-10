@@ -65,7 +65,7 @@ People spend hours searching multiple websites, comparing prices, reading review
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 With **Travel Agent AI**, trip planning becomes:
 - Easy  
 - Personal  
@@ -76,7 +76,7 @@ Built entirely with IBM Watsonx and the Granite model, it proves that **smart AI
 
 ---
 
-## 🔗 Author
+##  Author
 **Khousalya S**  
 GitHub: [khousalya](https://github.com/khousalya)
 
